@@ -1,1 +1,3 @@
 Create new file for lesson 3 reflection 
+
+Now that i've both pushed changes to GitHub, and pulled changes from GitHub, add the following question and your thoughts on it to your reflections file
